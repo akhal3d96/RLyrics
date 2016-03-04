@@ -50,7 +50,7 @@ else
 	p song
 	song.lyrics.each{|line| 
 		if !line.match("Usage of azlyrics.com content by any third-party lyrics provider is prohibited by our licensing agreement. Sorry about that.")
-		print line
+		print line.gsub("NEWLINE","\n")
 		end}
 
 end
