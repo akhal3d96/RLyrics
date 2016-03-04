@@ -4,7 +4,7 @@ Simple scripts written in Ruby to smartly fetch - and optionally save for offlin
 **Requires**
 
     nokogiri
-    id3
+    id3lib-ruby
 
 **Known Issues:**
  
