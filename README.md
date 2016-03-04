@@ -14,7 +14,7 @@ Simple scripts written in Ruby to smartly fetch - and optionally save for offlin
 
 **TODO:** 
 
- - Save lyrics which weren't fetched from a file.
+ - Save lyrics which weren't fetched from a file (a smarter way).
  - Directories search and discover.
  - Add other services.
 
