@@ -6,7 +6,7 @@ Simple scripts written in Ruby to smartly fetch - and optionally save for offlin
     nokogiri
     id3
 
-**Known Issue:**
+**Known Issues:**
  
  - Add [ to the beggining of the JSON file and ] at the end (easy to fix but I am busy).
  - It's badly designed (any improvments are welcome!). 
