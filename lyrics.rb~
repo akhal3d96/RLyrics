@@ -1,5 +1,5 @@
 #TODO use mixins to include DB module in Save module 
-load 'db.rb'
+load 'DB.rb'
 
 module Lyrics
 	def self.search(song,file)

@@ -34,7 +34,7 @@ def print_lyrics(lyrics_arr)
 		end
 		}
     	else
-		lyrics_arr.each {|line|
+		lyrics.each {|line|
 			#print line.gsub("NEWLINE","\n")	
 			if line == $BADLINE
 				#Do Nothing
